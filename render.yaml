@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: ballparkbets-api
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python start.py
+    healthCheckPath: /healthz
+    plan: free
+    envVars:
+      - key: PORT
+        value: 10000
+      - key: GMAIL_USER
+        sync: false
+      - key: GMAIL_APP_PASSWORD
+        sync: false
+      - key: ODDS_API_KEY
+        sync: false
