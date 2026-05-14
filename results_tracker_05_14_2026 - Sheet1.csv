@@ -1,0 +1,89 @@
+Date,Home Team,Away Team,Predicted Winner,Home Win %,Confidence,Actual Winner,team_wpct,opp_wpct,team_rpg,opp_rpg,pitcher_era,opp_pitcher_era,bullpen_era,opp_bullpen_era,park_factor,temp,wind_speed,wind_dir_out,home,Game Time,Model Edge,pitcher_recent_delta,opp_pitcher_recent_delta,Correct?
+5/7/26,New York Yankees,Texas Rangers,New York Yankees,82.44,Low,New York Yankees,0.684,0.459,5.5,3.76,3.2,5.77,3.04,3.85,1.08,60.8,9.1,0,1,,,,,‚úì Correct
+5/7/26,Washington Nationals,Minnesota Twins,Washington Nationals,53.03,High,Washington Nationals,0.474,0.421,5.39,4.82,5.5,6.9,4.83,4.8,1,58.4,1.6,0,1,,,,,‚úì Correct
+5/7/26,Kansas City Royals,Cleveland Guardians,Kansas City Royals,67,Low,Cleveland Guardians,0.447,0.513,4.13,4.15,4.31,6.1,4.35,4.01,1,64,14.4,0,1,,,,,‚úó Wrong
+5/7/26,Chicago Cubs,Cincinnati Reds,Chicago Cubs,54.9,Medium,Chicago Cubs,0.684,0.526,5.47,4.11,2.35,6,3.83,4.59,1,49.2,13.1,1,1,,,,,‚úì Correct
+5/7/26,Colorado Rockies,New York Mets,Colorado Rockies,70.89,Low,Colorado Rockies,0.378,0.389,4.24,3.67,4.41,3.75,4.68,3.92,1.3,66.8,12.8,0,1,,,,,‚úì Correct
+5/7/26,Arizona Diamondbacks,Pittsburgh Pirates,Pittsburgh Pirates,36.23,Low,Pittsburgh Pirates,0.486,0.541,4.54,4.89,4.61,3.61,4.81,3.73,1,90.3,0,0,1,,,,,‚úì Correct
+5/7/26,Philadelphia Phillies,Athletics,Athletics,33.14,Low,Athletics,0.459,0.5,3.97,4.25,4.48,3.31,4.47,4.67,1,65.5,7.6,0,1,,,,,‚úì Correct
+5/7/26,Miami Marlins,Baltimore Orioles,Miami Marlins,63.78,Low,Miami Marlins,0.432,0.459,4.24,4.62,2.98,5.29,4.09,4.88,1,84.2,0,0,1,,,,,‚úì Correct
+5/7/26,Boston Red Sox,Tampa Bay Rays,Tampa Bay Rays,42.01,High,Tampa Bay Rays,0.432,0.667,4.03,4.42,4.26,5.86,4,3.55,1,59.8,10.6,1,1,,,,,‚úì Correct
+5/7/26,San Diego Padres,St. Louis Cardinals,San Diego Padres,51.93,Medium,St. Louis Cardinals,0.611,0.583,4.5,4.83,3.33,5.21,4.21,4.54,0.9,65.1,8.4,0,1,,,,,‚úó Wrong
+5/8/26,Cincinnati Reds,Houston Astros,Cincinnati Reds,69.49,Low,Houston Astros,0.526,0.395,4.11,4.87,4,5.31,4.59,5.82,1.15,70.8,11.4,1,1,,,0,-0.23,‚úó Wrong
+5/8/26,Philadelphia Phillies,Colorado Rockies,Philadelphia Phillies,68.19,Low,Colorado Rockies,0.447,0.395,3.89,4.29,5.14,2.99,4.67,4.67,1,68.6,11,0,1,,,-2.29,0.43,‚úó Wrong
+5/8/26,Baltimore Orioles,Athletics,Athletics,32.85,Low,Athletics,0.447,0.514,4.58,4.46,4.65,5.42,4.83,4.57,1,70,7,0,1,,,0.6,0.19,‚úì Correct
+5/8/26,Toronto Blue Jays,Los Angeles Angels,Toronto Blue Jays,57.22,Medium,Toronto Blue Jays,0.432,0.395,3.97,4.47,3.27,3.86,4.23,4.47,1,51.7,0,0,1,,,-0.24,1.24,‚úì Correct
+5/8/26,Boston Red Sox,Tampa Bay Rays,Tampa Bay Rays,26.28,Low,Boston Red Sox,0.421,0.676,4.03,4.51,5.38,2.69,4.11,3.54,1,56.5,10.4,1,1,,,-2.65,3.18,‚úó Wrong
+5/8/26,Miami Marlins,Washington Nationals,Washington Nationals,38.51,Low,Washington Nationals,0.447,0.474,4.24,5.39,4,3.19,4.06,4.83,1,83.3,0,0,1,,,0,-0.26,‚úì Correct
+5/8/26,Cleveland Guardians,Minnesota Twins,Cleveland Guardians,50.21,Medium,Cleveland Guardians,0.513,0.421,4.15,4.82,2.92,4,4.01,4.8,1,55.6,5.5,0,1,,,0.31,-0.64,‚úì Correct
+5/8/26,Kansas City Royals,Detroit Tigers,Detroit Tigers,42.56,Low,Kansas City Royals,0.447,0.474,4.13,4.34,3.45,3.98,4.35,3.88,1,63.8,1.6,1,1,,,0.03,-2.03,‚úó Wrong
+5/8/26,Chicago White Sox,Seattle Mariners,Chicago White Sox,62.97,Low,Seattle Mariners,0.459,0.474,4.19,4.03,2.98,3.31,4.23,3.63,1,70,7,0,1,,,-0.23,1,‚úó Wrong
+5/8/26,Milwaukee Brewers,New York Yankees,New York Yankees,42.6,Medium,Milwaukee Brewers,0.543,0.684,5.17,5.5,3.12,2.11,3.6,3.04,1,65.3,0,0,1,,,-0.22,2.27,‚úó Wrong
+5/8/26,Texas Rangers,Chicago Cubs,Chicago Cubs,29.1,Low,Chicago Cubs,0.459,0.684,3.76,5.47,4.25,2.34,3.85,3.83,1,70.2,0,0,1,,,2.29,-1.79,‚úì Correct
+5/8/26,Arizona Diamondbacks,New York Mets,Arizona Diamondbacks,57.37,Medium,New York Mets,0.472,0.378,4.47,3.62,8.66,2.73,4.78,4.01,1,93,0,0,1,,,-7.45,0.34,‚úó Wrong
+5/8/26,San Diego Padres,St. Louis Cardinals,St. Louis Cardinals,47.51,Medium,St. Louis Cardinals,0.595,0.595,4.41,4.76,2.81,4.33,4.15,4.45,0.9,66.9,4.4,0,1,,,0,-1.9,‚úì Correct
+5/8/26,Los Angeles Dodgers,Atlanta Braves,Atlanta Braves,49.19,High,Los Angeles Dodgers,0.622,0.684,5.3,5.61,4.55,3.24,3.16,3.22,1,70,7,0,1,,,-0.05,-1.3,‚úó Wrong
+5/8/26,San Francisco Giants,Pittsburgh Pirates,Pittsburgh Pirates,37.97,Low,San Francisco Giants,0.378,0.553,3.11,4.87,4,5.03,3.96,3.7,0.92,56.4,14.8,1,1,,,0,-0.56,‚úó Wrong
+5/9/26,Cleveland Guardians,Minnesota Twins,,,,Minnesota Twins,,,,,,,,,,,,,,,,,,
+5/9/26,Miami Marlins,Washington Nationals,,,,Miami Marlins,,,,,,,,,,,,,,,,,,
+5/9/26,Philadelphia Phillies,Colorado Rockies,,,,Philadelphia Phillies,,,,,,,,,,,,,,,,,,
+5/9/26,Kansas City Royals,Detroit Tigers,,,,Detroit Tigers,,,,,,,,,,,,,,,,,,
+5/9/26,Milwaukee Brewers,New York Yankees,,,,Milwaukee Brewers,,,,,,,,,,,,,,,,,,
+5/9/26,Chicago White Sox,Seattle Mariners,,,,Chicago White Sox,,,,,,,,,,,,,,,,,,
+5/9/26,Arizona Diamondbacks,New York Mets,,,,New York Mets,,,,,,,,,,,,,,,,,,
+5/9/26,San Diego Padres,St. Louis Cardinals,,,,St. Louis Cardinals,,,,,,,,,,,,,,,,,,
+5/9/26,San Francisco Giants,Pittsburgh Pirates,,,,Pittsburgh Pirates,,,,,,,,,,,,,,,,,,
+5/9/26,Los Angeles Dodgers,Atlanta Braves,,,,Atlanta Braves,,,,,,,,,,,,,,,,,,
+5/9/26,Texas Rangers,Chicago Cubs,,,,Texas Rangers,,,,,,,,,,,,,,,,,,
+5/9/26,Houston Astros,Cincinnati Reds,,,,Houston Astros,,,,,,,,,,,,,,,,,,
+5/10/26,Miami Marlins,Washington Nationals,,,,Washington Nationals,,,,,,,,,,,,,,,,,,
+5/10/26,Baltimore Orioles,Oakland Athletics,,,,Oakland Athletics,,,,,,,,,,,,,,,,,,
+5/10/26,Philadelphia Phillies,Colorado Rockies,,,,Philadelphia Phillies,,,,,,,,,,,,,,,,,,
+5/10/26,Boston Red Sox,Tampa Bay Rays,,,,Tampa Bay Rays,,,,,,,,,,,,,,,,,,
+5/10/26,Toronto Blue Jays,Los Angeles Angels,,,,Toronto Blue Jays,,,,,,,,,,,,,,,,,,
+5/10/26,Cincinnati Reds,Houston Astros,,,,Cincinnati Reds,,,,,,,,,,,,,,,,,,
+5/10/26,Cleveland Guardians,Minnesota Twins,,,,Minnesota Twins,,,,,,,,,,,,,,,,,,
+5/10/26,Milwaukee Brewers,New York Yankees,,,,Milwaukee Brewers,,,,,,,,,,,,,,,,,,
+5/10/26,Chicago White Sox,Seattle Mariners,,,,Chicago White Sox,,,,,,,,,,,,,,,,,,
+5/10/26,Texas Rangers,Chicago Cubs,,,,Chicago Cubs,,,,,,,,,,,,,,,,,,
+5/10/26,San Francisco Giants,Pittsburgh Pirates,,,,San Francisco Giants,,,,,,,,,,,,,,,,,,
+5/10/26,Los Angeles Dodgers,Atlanta Braves,,,,Atlanta Braves,,,,,,,,,,,,,,,,,,
+5/10/26,Arizona Diamondbacks,New York Mets,,,,Arizona Diamondbacks,,,,,,,,,,,,,,,,,,
+5/10/26,San Diego Padres,St. Louis Cardinals,,,,St. Louis Cardinals,,,,,,,,,,,,,,,,,,
+5/10/26,Kansas City Royals,Detroit Tigers,,,,Kansas City Royals,,,,,,,,,,,,,,,,,,
+5/11/26,Cleveland Guardians,Los Angeles Angels,,,,Los Angeles Angels,,,,,,,,,,,,,,,,,,
+5/11/26,Baltimore Orioles,New York Yankees,,,,New York Yankees,,,,,,,,,,,,,,,,,,
+5/11/26,Toronto Blue Jays,Tampa Bay Rays,,,,Tampa Bay Rays,,,,,,,,,,,,,,,,,,
+5/11/26,Texas Rangers,Arizona Diamondbacks,,,,Arizona Diamondbacks,,,,,,,,,,,,,,,,,,
+5/11/26,Houston Astros,Seattle Mariners,,,,Seattle Mariners,,,,,,,,,,,,,,,,,,
+5/11/26,Los Angeles Dodgers,San Francisco Giants,,,,San Francisco Giants,,,,,,,,,,,,,,,,,,
+5/12/26,Cleveland Guardians,Los Angeles Angels,,,,Cleveland Guardians,,,,,,,,,,,,,,,,,,
+5/12/26,Baltimore Orioles,New York Yankees,,,,New York Yankees,,,,,,,,,,,,,,,,,,
+5/12/26,Pittsburgh Pirates,Colorado Rockies,,,,Colorado Rockies,,,,,,,,,,,,,,,,,,
+5/12/26,Cincinnati Reds,Washington Nationals,,,,Washington Nationals,,,,,,,,,,,,,,,,,,
+5/12/26,Boston Red Sox,Philadelphia Phillies,,,,Philadelphia Phillies,,,,,,,,,,,,,,,,,,
+5/12/26,Toronto Blue Jays,Tampa Bay Rays,,,,Tampa Bay Rays,,,,,,,,,,,,,,,,,,
+5/12/26,New York Mets,Detroit Tigers,,,,Detroit Tigers,,,,,,,,,,,,,,,,,,
+5/12/26,Atlanta Braves,Chicago Cubs,,,,Chicago Cubs,,,,,,,,,,,,,,,,,,
+5/12/26,Chicago White Sox,Kansas City Royals,,,,Kansas City Royals,,,,,,,,,,,,,,,,,,
+5/12/26,Minnesota Twins,Miami Marlins,,,,Miami Marlins,,,,,,,,,,,,,,,,,,
+5/12/26,Milwaukee Brewers,San Diego Padres,,,,Milwaukee Brewers,,,,,,,,,,,,,,,,,,
+5/12/26,Texas Rangers,Arizona Diamondbacks,,,,Arizona Diamondbacks,,,,,,,,,,,,,,,,,,
+5/12/26,Houston Astros,Seattle Mariners,,,,Seattle Mariners,,,,,,,,,,,,,,,,,,
+5/12/26,Oakland Athletics,St. Louis Cardinals,,,,St. Louis Cardinals,,,,,,,,,,,,,,,,,,
+5/12/26,Los Angeles Dodgers,San Francisco Giants,,,,San Francisco Giants,,,,,,,,,,,,,,,,,,
+5/13/26,Baltimore Orioles,New York Yankees,Baltimore Orioles,,,Baltimore Orioles,,,,,,,,,,,,,,,,,,
+5/13/26,Cleveland Guardians,Los Angeles Angels,Cleveland Guardians,,,Cleveland Guardians,,,,,,,,,,,,,,,,,,
+5/13/26,Pittsburgh Pirates,Colorado Rockies,Pittsburgh Pirates,,,Colorado Rockies,,,,,,,,,,,,,,,,,,
+5/13/26,Cincinnati Reds,Washington Nationals,Cincinnati Reds,,,Washington Nationals,,,,,,,,,,,,,,,,,,
+5/13/26,Boston Red Sox,Philadelphia Phillies,Philadelphia Phillies,,,Philadelphia Phillies,,,,,,,,,,,,,,,,,,
+5/13/26,Toronto Blue Jays,Tampa Bay Rays,Toronto Blue Jays,,,Toronto Blue Jays,,,,,,,,,,,,,,,,,,
+5/13/26,New York Mets,Detroit Tigers,New York Mets,,,New York Mets,,,,,,,,,,,,,,,,,,
+5/13/26,Atlanta Braves,Chicago Cubs,Chicago Cubs,,,Chicago Cubs,,,,,,,,,,,,,,,,,,
+5/13/26,Chicago White Sox,Kansas City Royals,Kansas City Royals,,,Kansas City Royals,,,,,,,,,,,,,,,,,,
+5/13/26,Minnesota Twins,Miami Marlins,Miami Marlins,,,Miami Marlins,,,,,,,,,,,,,,,,,,
+5/13/26,Milwaukee Brewers,San Diego Padres,San Diego Padres,,,San Diego Padres,,,,,,,,,,,,,,,,,,
+5/13/26,Texas Rangers,Arizona Diamondbacks,Arizona Diamondbacks,,,Arizona Diamondbacks,,,,,,,,,,,,,,,,,,
+5/13/26,Houston Astros,Seattle Mariners,Seattle Mariners,,,Seattle Mariners,,,,,,,,,,,,,,,,,,
+5/13/26,Oakland Athletics,St. Louis Cardinals,Oakland Athletics,,,Oakland Athletics,,,,,,,,,,,,,,,,,,
+5/13/26,Los Angeles Dodgers,San Francisco Giants,Los Angeles Dodgers,,,San Francisco Giants,,,,,,,,,,,,,,,,,,
