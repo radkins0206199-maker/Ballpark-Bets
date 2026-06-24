@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+openpyxl
+requests
+xgboost
+flask
+flask-cors
+gunicorn
+pybaseball
+pytz
+psycopg2-binary
+scipy
+lightgbm
